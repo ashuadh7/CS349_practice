@@ -1,3 +1,4 @@
-console.log("hello vite!")
-import { startSimpleKit } from "simplekit/canvas-mode";
+import {startSimpleKit} from "simplekit/canvas-mode";
+
 startSimpleKit();
+console.log('Hello Vite!');
